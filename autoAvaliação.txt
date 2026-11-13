@@ -1,0 +1,13 @@
+Auto - Avaliação do Murilo
+
+Este ano em programação eu aprendi herança, diagrama de classes, relacionamento entre classes, 
+composição, agregação,eu retomei assuntos do ano passado para me auxiliar nos assuntos deste ano.
+Além da programação, partindo um pouco para a matemática eu aprendi assuntos que ainda não tinha visto
+(função exponencial e logaritmo).
+
+Em programação eu melhorei na parte dos laços de repetição e laços de condição, introduzindo nos assuntos deste ano
+termos como classe, atributos, métodos, herança e entre outros fixaram na minha mente. O que ainda é um pouco difícil
+é a parte de programar tudo isso, no entanto, a teoria está ok.
+
+Minha meta para 2027 é manter a dedicação e o esforço nos assuntos da matéria envolvendo a programação
+e sempre procurando melhorar o conhecimento tanto prático como teórico.
